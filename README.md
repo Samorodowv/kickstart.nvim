@@ -1,5 +1,8 @@
 ### Introduction
 
+based on:
+https://www.youtube.com/watch?v=stqUbv-5u2s&list=WL&index=19
+
 A starting point for Neovim that is:
 
 * Small (~370 lines)
